@@ -1,5 +1,3 @@
-<img width="1337" height="296" alt="{0428602A-26AE-4EA7-8A9F-ACAFF7DC75F0}" src="https://github.com/user-attachments/assets/0c051b45-ab3d-4845-8330-0e6a88557b70" /># Báo cáo cá nhân — Day 01: Lọc tin nhắn rác bằng ML, DL, Embedding và LLM
-
 > Đổi tên file này thành `MSSV_HoTen.md` của bạn, ví dụ `2A20260000_NguyenVanAn.md`, rồi điền từng mục. Xoá các dòng hướng dẫn in nghiêng khi xong.
 
 - **MSSV:**
